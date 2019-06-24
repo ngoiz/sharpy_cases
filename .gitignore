@@ -1,0 +1,7 @@
+output*/
+fig*/
+cases*/
+archive*/
+*.vtu
+*.h5
+*checkpoints*
