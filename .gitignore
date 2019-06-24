@@ -5,3 +5,14 @@ archive*/
 *.vtu
 *.h5
 *checkpoints*
+*.eps
+*.mat
+*.csv
+*.npy
+*.pdf
+*.png
+*.txt
+*pycache*
+*.html
+*.avi
+*idea*
